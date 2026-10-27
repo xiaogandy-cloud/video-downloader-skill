@@ -1,0 +1,5 @@
+# Preserve the working AIOS engine version. No model/API client is required.
+yt-dlp[default,deno]==2026.8.19
+playwright>=1.50,<2
+pydantic>=2.10,<3
+httpx>=0.28,<1

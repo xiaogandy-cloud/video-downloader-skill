@@ -1,0 +1,114 @@
+{
+  "extracted_at": "2026-10-27",
+  "source": "Existing local-video-downloader used by AIOS",
+  "files": [
+    {
+      "path": "single/__init__.py",
+      "sha256": "08a57b771017822760244eebf6625a5ccac614d20d44f88b14d34136f150bc4a"
+    },
+    {
+      "path": "single/common.py",
+      "sha256": "6b90dbf233b8d1af46387b4c22ad4242bcb5be6867056e49530f5fac0b8cb992"
+    },
+    {
+      "path": "single/engine.py",
+      "sha256": "4991bb743cc8d690e7f2fa16a17599c7bd875a28b8e4f32a58b6443d22d699af"
+    },
+    {
+      "path": "single/tasks.py",
+      "sha256": "1f2ee28ca9b3ff1d0a6c661de36c222f17ef7fbf2e63e670fdf902f91ca5fad3"
+    },
+    {
+      "path": "single/storage.py",
+      "sha256": "fc45b14026538a4330da1d1a77103d582fdfbaf173d79ab379121d5cb838b3b7"
+    },
+    {
+      "path": "single/verification.py",
+      "sha256": "82891bccba50e20d856e041d558d1e69f5c4450605c5406b4da28139ed201973"
+    },
+    {
+      "path": "single/windows_context.py",
+      "sha256": "92a47ca4702f94d16773a7f904e3db7e7aac4b7955e889e9bb77d9d565f0ad41"
+    },
+    {
+      "path": "single/login.py",
+      "sha256": "95b1808c7443fe9ef35367a91128aae9fc16e6b7018311af920a0c2cec580478"
+    },
+    {
+      "path": "single/wechat.py",
+      "sha256": "e49b1888a408c0a47b955d7e934a5c7c21d5063f10327014c30bfeea62ad77e1"
+    },
+    {
+      "path": "single/kuaishou_page.py",
+      "sha256": "b9f1c81726d0a4ae03e5a4dc00b1b9ea054d7debe154a646563a6a153b5b5701"
+    },
+    {
+      "path": "single/vendor/__init__.py",
+      "sha256": "5ad0d66edb6e34522327681c5c0693013be8a98a48fc0ce3efe8fbac9477eeb9"
+    },
+    {
+      "path": "single/vendor/wxsph_core.py",
+      "sha256": "1e883215d7ac4521e68473bd49429309338b22e0e3640e4be54fe562dce4f7ca"
+    },
+    {
+      "path": "single/vendor/wxsph-source.json",
+      "sha256": "a52f281e297d3d0967ab9db13ba5cd57fe45eca0e53cfcb6e604d9ce1a8081e9"
+    },
+    {
+      "path": "single/vendor/LICENSE.wxsph",
+      "sha256": "945d3c506fb697bc95215cbb9db367ffba293d0c36a5cbe6d7c5e90feabdae93"
+    },
+    {
+      "path": "app/__init__.py",
+      "sha256": "75c109e3ee9d27a3568f1c43a05ba93cdd8e98ea21b4982becb56ee4ab3d8aa4"
+    },
+    {
+      "path": "app/models.py",
+      "sha256": "e7d9b38e159ff7206867faf2d5ec9130146593829405fb008be99b3ed3ce0530"
+    },
+    {
+      "path": "app/platforms.py",
+      "sha256": "2fef68bd6d8374d753f85f02da09ded5d28be88f8144620e2c31cc2bc2f5c941"
+    },
+    {
+      "path": "app/downloader.py",
+      "sha256": "8043611b8e9df3523a19368cb1b092db74bdd1e988eb0774c6d195079f6b563a"
+    },
+    {
+      "path": "app/douyin.py",
+      "sha256": "9c0bfe363e5216323ebd5f34100dcf3027260c10a56dc6c9fdfc357e2fd68e52"
+    },
+    {
+      "path": "app/douyin_signing.py",
+      "sha256": "2e83eb11ab85a59bca1d9b3e07d5ee1b922bc31dbbbd58940eb44465fb3beb1d"
+    },
+    {
+      "path": "app/xiaohongshu.py",
+      "sha256": "54b50ddceb2d80fbf0c6d5144ff9aa66b6a10a3668329a8082ab998992397151"
+    },
+    {
+      "path": "app/kuaishou.py",
+      "sha256": "ce03fd9bcd2793078f0b8e412f242d72fd47ca1cb64f0c87805969680cae656c"
+    },
+    {
+      "path": "app/browser.py",
+      "sha256": "9f983804aeb09ed4837f6a56555e4dbfaf9afccff54997b6e04888fa8838ee8c"
+    },
+    {
+      "path": "app/errors.py",
+      "sha256": "c098cbc43e16ef4fc1c72fd8e64bce43ae41957af83cf3dfd8f9d8ac7be0f444"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "53927bd0b739d38c87a0a82236fd9b070c2dfff11c0c119be50372005d5047ad"
+    },
+    {
+      "path": "LICENSE.MIT",
+      "sha256": "2cd6320f028ca785a0360e390f42ab50cb611d5edc6313ff0373cee04b4db6be"
+    },
+    {
+      "path": "NOTICE.md",
+      "sha256": "ff7b63b1f2089d71cf71a3c6afc8bb977f8e02c9cf0e428130a80a05ee53a89d"
+    }
+  ]
+}

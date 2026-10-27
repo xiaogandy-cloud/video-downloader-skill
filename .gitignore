@@ -1,0 +1,43 @@
+# Local authentication, browser profiles, runtime state: never publish.
+.local/
+.env
+.env.*
+cookies/
+cookies*.txt
+*cookies*.json
+profiles/
+sessions/
+*token*.json
+*credentials*.json
+*password*.txt
+*.pem
+*.key
+
+# Environments, caches and build outputs.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Actual downloads and local acceptance evidence.
+downloads/
+output/
+verification/
+.local-video-parts/
+*.mp4
+*.mkv
+*.webm
+*.mov
+*.m4v
+*.log
+*.part
+*.ytdl
+*.zip

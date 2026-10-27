@@ -1,0 +1,2 @@
+# Preserve the exact reused source bytes recorded in UPSTREAM.json.
+* -text whitespace=cr-at-eol

@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/sanmu1019/wxsph",
+  "commit": "47104937d681a3bc36b0c6f84d6231cdc85bf5e8",
+  "license": "MIT",
+  "functions": [
+    "ApiError",
+    "first_video_url",
+    "generate_rid",
+    "get_feed_info",
+    "parse_share_url",
+    "split_playable_url"
+  ],
+  "changes": "Extracted resolver functions only; transport injected; no server/env/cache startup."
+}
