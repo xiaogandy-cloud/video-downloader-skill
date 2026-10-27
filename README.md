@@ -15,7 +15,7 @@
 
 准备 Python 3.12、Git，以及包含 `ffmpeg` / `ffprobe` 的 FFmpeg，确保二者可在终端执行。需要登录时另需安装 Google Chrome。所有登录均在本地专用窗口完成。
 
-仓库第一版为 **Private**，需仓库拥有者授权后才能克隆；获得访问权限后：
+仓库已公开为 **Public**，无需申请仓库访问权限即可下载、克隆和安装：
 
 ```powershell
 git clone https://github.com/xiaogandy-cloud/video-downloader-skill.git
